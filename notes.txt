@@ -3,4 +3,5 @@
 3. Change a third note for the cool feature branch
 4. Fourth note second adiitional branch
 5. Something for this list
-6. Lets try to push with new branch
+6. Lets try to push with new
+7. Last note for this list and this home work
