@@ -1,1 +1,2 @@
 1. Fitst note from init commit
+2. Second note for second commit
